@@ -1,4 +1,4 @@
-# tavern-logion-screen
+# tavern-login-screen
 a login and register screen with HTML, CSS and JavaScript
 
 check the design below!
